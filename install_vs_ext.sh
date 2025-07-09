@@ -30,3 +30,4 @@ code --install-extension oderwat.indent-rainbow
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension yzane.markdown-pdf
 code --install-extension mhutchie.git-graph
+code --install-extension janisdd.vscode-edit-csv
