@@ -4,7 +4,6 @@ code --uninstall-extension xirider.livecode --force
 code --uninstall-extension mintlify.document --force 
 code --uninstall-extension ziyasal.vscode-open-in-github --force 
 code --uninstall-extension donjayamanne.git-extension-pack --force
-code --uninstall-extension alefragnani.project-manager --force 
 code --uninstall-extension sourcery.sourcery --force 
 code --uninstall-extension littlefoxteam.vscode-python-test-adapter --force
 code --uninstall-extension hbenl.vscode-test-explorer --force
@@ -13,6 +12,7 @@ code --uninstall-extension traBpUkciP.wolf --force
 code --uninstall-extension deerawan.vscode-dash --force
 code --uninstall-extension almenon.arepl --force
 code --uninstall-extension dongli.python-preview --force
+code --install-extension alefragnani.project-manager
 code --install-extension ms-python.python
 code --install-extension GitHub.copilot
 code --install-extension codezombiech.gitignore
